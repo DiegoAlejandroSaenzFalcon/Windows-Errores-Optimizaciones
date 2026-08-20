@@ -1,0 +1,22 @@
+# windows-visual-effects-performance — Explicación didáctica
+
+## ¿Qué ve el usuario?
+La interfaz se siente lenta, con animaciones que tardan, o el equipo tiene poca RAM/GPU.
+
+## ¿Qué son los "efectos visuales"?
+Windows dibuja sombras bajo las ventanas, hace que aparezcan con animación, y usa ventanas **translúcidas** (Aero). Se ven bonitas, pero cada frame consume CPU y GPU.
+
+## ¿Por qué afecta el rendimiento?
+En equipos con pocos recursos, esos adornos compiten con tu trabajo por la CPU/GPU, y la interfaz se siente pesada.
+
+## ¿Es seguro?
+Sí. Solo cambia la apariencia; no borra archivos ni afecta programas.
+
+## ¿Qué hace `fix.ps1` paso a paso?
+1. Pone `VisualFXSetting = 2` ("Mejor rendimiento") en el registro del usuario.
+2. Avisa a Windows que refresque la configuración.
+
+## ¿Cómo lo deshago?
+Vuelve `VisualFXSetting` a `0` (Windows elige) o `1` (mejor apariencia).
+
+> 💡 Para aprender: "Mejor rendimiento" sacrifica estética por velocidad; es un intercambio (trade-off) clásico en informática.
