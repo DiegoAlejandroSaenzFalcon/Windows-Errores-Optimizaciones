@@ -84,4 +84,6 @@ Ver [CONTRIBUTING.md](CONTRIBUTING.md) y [docs/how-to-add-an-issue.md](docs/how-
 Cada entrada es **una carpeta** con sus 3 archivos; el GUI y el escáner las cargan solos.
 
 ## Licencia
-MIT — ver [LICENSE](LICENSE).
+**GPL-3.0** — ver [LICENSE](LICENSE). Esto garantiza que el código (y sus derivados) permanezca libre y abierto; nadie puede cerrarlo ni venderlo como software propietario.
+
+Al contribuir aceptas el **CLA** ([CLA.md](CLA.md)): cedes a Diego Alejandro Saenz Falcon el derecho de relicenciar tus aportaciones (incl. versiones privadas o comerciales). El proyecto es y sigue siendo propiedad del autor original.

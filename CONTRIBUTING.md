@@ -29,3 +29,6 @@ Thanks for helping build a **build-specific, scriptable** Windows knowledge base
 - Prefer `Set-Service`/registry/`netsh` over third-party utilities.
 - Every fix should create a System Restore Point when feasible.
 - Cite sources in `references` when the fix is derived from external research.
+
+## Contributor License Agreement (CLA)
+Al aportar aceptas el CLA en [CLA.md](CLA.md): cedes a Diego Alejandro Saenz Falcon el derecho de relicenciar (incl. privado/comercial) tus contribuciones.
