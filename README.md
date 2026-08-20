@@ -4,9 +4,9 @@
 > Cada entrada es **reproducible por versión/build**, trae un **script reversible** y se puede aplicar
 > **sin escribir comandos** gracias a un launcher gráfico.
 
-![License](https://img.shields.io/github/license/DiegoAlejandroSaenzFalcon/Windows-Errata-Optimizations?style=flat)
-![Issues](https://img.shields.io/github/issues/DiegoAlejandroSaenzFalcon/Windows-Errata-Optimizations)
-![Last commit](https://img.shields.io/github/last-commit/DiegoAlejandroSaenzFalcon/Windows-Errata-Optimizations)
+![License](https://img.shields.io/github/license/DiegoAlejandroSaenzFalcon/Windows-Errores-Optimizaciones?style=flat)
+![Issues](https://img.shields.io/github/issues/DiegoAlejandroSaenzFalcon/Windows-Errores-Optimizaciones)
+![Last commit](https://img.shields.io/github/last-commit/DiegoAlejandroSaenzFalcon/Windows-Errores-Optimizaciones)
 
 ## ¿Por qué este repositorio?
 La mayoría de las guías existentes son listas planas de códigos de error o "tweak packs" sin explicación.
