@@ -42,6 +42,7 @@ pulsa "Escanear" y luego "Aplicar". No necesitas escribir nada. Consulta el
 | `windows-telemetry-disable` | Reducir telemetría de Windows | performance | [issues/windows-telemetry-disable](issues/windows-telemetry-disable) |
 | `windows-network-optimization` | Optimizar pila de red (DNS/QoS/TCP) | performance | [issues/windows-network-optimization](issues/windows-network-optimization) |
 | `windows-visual-effects-performance` | Efectos visuales en "Mejor rendimiento" | performance | [issues/windows-visual-effects-performance](issues/windows-visual-effects-performance) |
+| `rhel-dual-boot-partition` | Repartir disco 50/50 y preparar dual-boot Windows + RHEL (UEFI) | performance | [issues/rhel-dual-boot-partition](issues/rhel-dual-boot-partition) |
 
 ## Evidencia real
 Lee [docs/examples/evidencia-sesion-2026-08-19.md](docs/examples/evidencia-sesion-2026-08-19.md):
