@@ -35,6 +35,7 @@ pulsa "Escanear" y luego "Aplicar". No necesitas escribir nada. Consulta el
 | ID | Título | Categoría | Carpeta |
 |----|--------|-----------|---------|
 | `ms-cortana2-link-error` | "No se puede abrir vínculo ms-cortana2" | bug | [issues/ms-cortana2-link-error](issues/ms-cortana2-link-error) |
+| `ms-cortana2-no-malware` | ms-cortana2 NO es malware: diagnóstico de seguridad | security | [issues/ms-cortana2-no-malware](issues/ms-cortana2-no-malware) |
 | `ltsc-dev-services` | Servicios innecesarios en laptop 8GB (dev) | performance | [issues/ltsc-dev-services](issues/ltsc-dev-services) |
 | `wifi-throughput-ltsc` | Máxima velocidad WiFi (Intel AX203) | performance | [issues/wifi-throughput-ltsc](issues/wifi-throughput-ltsc) |
 | `windows-power-plan-ultimate` | Plan Máximo Rendimiento | performance | [issues/windows-power-plan-ultimate](issues/windows-power-plan-ultimate) |
